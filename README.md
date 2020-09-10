@@ -13,7 +13,7 @@ Para instalar o Unity entre no [site](https://store.unity.com/download?ref=perso
 Para instalar o ML-Agents faça:
 
 `
-git clone --branch release_3 https://github.com/Unity-Technologies/ml-agents.git
+$ git clone --branch release_3 https://github.com/Unity-Technologies/ml-agents.git
 `
 
 Para mais informações visite o [site](https://github.com/Unity-Technologies/ml-agents/blob/release_3_docs/docs/Readme.md "site").
