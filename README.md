@@ -4,8 +4,6 @@
 
 **Sumário**
 
-[TOC]
-
 ## Unity
 
 Para instalar o Unity entre no [site](https://store.unity.com/download?ref=personal "site"). Esse trabalho utilizou a versão 2019.4.2f1 que está disponivel no UnityHub.
