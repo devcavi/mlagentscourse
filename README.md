@@ -23,9 +23,13 @@ Nos ambientes de aprendizado a seguir, é utilizado o algoritmo de *Proximal Pol
 
 ## Ambientes de Aprendizado
 
-Estão disponibilizados dois ambientes nesse projeto.
+Estão disponibilizados dois ambientes nesse projeto. Para realizar o treinamento do agente ative o ambiente virtual. No [vídeo 1](https://www.youtube.com/watch?v=gU9UIHbMdDk "Tutorial 1") de apoio mostramos como realizar o procedimento de criação do ambiente virtual. 
+
+O capítulo do livro que acompanha o desenvolvimento deste minicurso encontra-se também disponível [neste link](https://sol.sbc.org.br/livros/index.php/sbc/catalog/view/48/221/459-1). Este material e minicurso foi realizado no dia 12 de setembro no ERCEMAPI/ENUCOMPI 2020.
 
 ### Ambiente A
+
+![](docs/images/AmbienteA.png)
 
 É um ambiente simples que contem 3 objetos:
 
@@ -43,6 +47,8 @@ $ mlagents-learn config/roller_agent.yaml --run-id=AgentA
 onde o arquivo de configuração do algoritmo PPO (`config/roller_agent.yaml`) deve ser informado, e  a opção `--run-id` determina um nome dado ao treinamento que será executado.
 
 ### Ambiente B
+
+![](docs/images/AmbienteB.png)
 
 O Ambiente B representa uma alteração de forma a deixar o problema mais complexo. Os mesmo três objetos estão presentes, porém agora o alvo pode estar em um ponto do espaço, fazendo com que o agente tenha que pular para pegá-lo. De forma semelhante, o comando deve ser executado:
 
