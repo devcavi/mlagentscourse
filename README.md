@@ -59,5 +59,7 @@ $ mlagents-learn config/roller_agent.yaml --run-id=AgentB
 ## Tutoriais
 
 [Tutorial 1 - instalação da Unity com ML-Agents](https://www.youtube.com/watch?v=gU9UIHbMdDk "Tutorial 1")
+
 [Tutorial 2 - Execução de exemplos presentes no ML-Agents](https://www.youtube.com/watch?v=PVl3hcvJxYY "Tutorial 2")
+
 [Tutorial 3 - Treinando um exemplo do ML-Agents](https://www.youtube.com/watch?v=voojZvrgC5k "Tutorial 3")
