@@ -31,11 +31,11 @@ $ sudo apt-get install python3-venv
 
 `
 $ python3 -m venv env
-
 ` 
-3) Ativação do ambiente virtual
-`
 
+3) Ativação do ambiente virtual
+
+`
 $ source env/bin/activate
 
 ` 
