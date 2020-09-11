@@ -20,6 +20,31 @@ Para mais informações visite o [site](https://github.com/Unity-Technologies/ml
 
 Nos ambientes de aprendizado a seguir, é utilizado o algoritmo de *Proximal Policy Optimization (PPO)* para treinar o agente.
 
+Para executar o treinamento deste projeto execute os seguintes comandos na raiz do projeto, no terminal, considerando que seu ambiente seja linux:
+1) Instalação do ambiente virtual
+`
+$ sudo apt-get install python3-venv
+`
+2) Criação do ambiente virtual
+`
+$ python3 -m venv env
+` 
+3) Ativação do ambiente virtual
+`
+$ source env/bin/activate
+` 
+4) Atualização do pacote pip
+`
+$ pip3 install --upgrade pip 
+`
+5) E do pacote setuptools
+`
+$ pip3 install --upgrade setuptools
+` 
+6) Por fim, instalação do pacote mlagents, estamos usando aqui a versão 0.17
+`
+$ pip3 install mlagents==0.17
+`
 
 ## Ambientes de Aprendizado
 
