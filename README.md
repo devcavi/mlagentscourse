@@ -26,26 +26,31 @@ Para executar o treinamento deste projeto execute os seguintes comandos na raiz 
 `
 $ sudo apt-get install python3-venv
 `
+
 2) Criação do ambiente virtual
 
 `
 $ python3 -m venv env
+
 ` 
 3) Ativação do ambiente virtual
 
 `
 $ source env/bin/activate
 ` 
+
 4) Atualização do pacote pip
 
 `
 $ pip3 install --upgrade pip 
 `
+
 5) E do pacote setuptools
 
 `
 $ pip3 install --upgrade setuptools
 ` 
+
 6) Por fim, instalação do pacote mlagents, estamos usando aqui a versão 0.17
 
 `
