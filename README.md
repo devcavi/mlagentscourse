@@ -37,8 +37,8 @@ $ python3 -m venv env
 
 `
 $ source env/bin/activate
-
 ` 
+
 4) Atualização do pacote pip
 
 `
