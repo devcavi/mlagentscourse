@@ -34,11 +34,11 @@ $ python3 -m venv env
 
 ` 
 3) Ativação do ambiente virtual
-
 `
-$ source env/bin/activate
-` 
 
+$ source env/bin/activate
+
+` 
 4) Atualização do pacote pip
 
 `
